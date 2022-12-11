@@ -194,7 +194,7 @@ Material:
     - _AlphaSrcBlend: 1
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
-    - _Amplitude: 1
+    - _Amplitude: 2
     - _Anisotropy: 0
     - _Blend: 0
     - _BlendMode: 0
@@ -203,9 +203,9 @@ Material:
     - _ClearCoatSmoothness: 0
     - _CoatMask: 0
     - _ConservativeDepthOffsetEnable: 0
-    - _Crest_Falloff: 2
-    - _Crest_Offset: 31.31
-    - _Crest_Size: 0.4
+    - _Crest_Falloff: 2.5
+    - _Crest_Offset: 103.38
+    - _Crest_Size: 0.18
     - _Cull: 2
     - _CullMode: 0
     - _CullModeForward: 0
@@ -226,7 +226,7 @@ Material:
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
     - _DstBlend: 10
-    - _Edge_Hardness: 10
+    - _Edge_Hardness: 6.63
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
     - _EmissiveIntensity: 1
@@ -236,10 +236,10 @@ Material:
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
     - _EnvironmentReflections: 1
-    - _Extra_Dispersion: -0.03
+    - _Extra_Dispersion: -0.04
     - _Extra_Expersion: 0
     - _Foam_Bands: 2
-    - _Foam_Falloff: 2
+    - _Foam_Falloff: 2.61
     - _Foam_Removal: 0.095
     - _Foam_Width: 4
     - _Frequency: 0.1
