@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4105463592165082464}
   - component: {fileID: 1105161983390616261}
   - component: {fileID: 2932588542923341327}
+  - component: {fileID: -4621280010531837944}
   m_Layer: 0
   m_Name: Left_gable_V2
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-4621280010531837944
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3725138583959166938}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.114416614, y: 0.02142984, z: 0.044619057}
+  m_Center: {x: -0.04720829, y: 0.00071491307, z: -0.008591371}
