@@ -7,14 +7,12 @@ public class ShipAnimation : MonoBehaviour
     Animator animator;
     public GameObject Tornado;
     public float time = 2;
-    // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         animator.SetBool("IsTornadoCome", false);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Tornado.activeSelf)
